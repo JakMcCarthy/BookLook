@@ -39,5 +39,11 @@
     THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit       button
 
 ```
+## Contributors:
+    Jackson, Susan, Sarah, Chris, Ricky, Aaron
 
-##
+## Web Demo: https://drive.google.com/file/d/1ppe1o0qDxBhnywEu-HAfgS0mLNeSDVTH/view
+
+## Repository: https://github.com/JakMcCarthy/BookLook
+
+## Deployed Link: https://buhkluhk.herokuapp.com/
